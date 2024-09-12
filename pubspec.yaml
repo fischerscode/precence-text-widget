@@ -32,6 +32,11 @@ dependencies:
   flutter_native_label:
     git:
       url: https://github.com/collinjackson/flutter_native_label.git
+  inline_alignment:
+    git:
+      url: https://github.com/fischerscode/pub.packages.git
+      ref: f864eda
+      path: packages/inline_alignment
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
